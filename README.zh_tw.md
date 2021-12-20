@@ -15,7 +15,8 @@ print("Ultimate Python 學習大綱")
 [English](README.md) |
 [한국어](README.ko.md) |
 [繁体中文](README.zh_tw.md) |
-[Español](README.es.md)
+[Español](README.es.md) |
+[Deutsch](README.de.md)
 
 ## 動力
 
@@ -125,3 +126,4 @@ print("Ultimate Python 學習大綱")
 - [exercism.io](https://exercism.io/)
 - [projecteuler.net](https://projecteuler.net/)
 - [DevProjects](https://www.codementor.io/projects/python)
+- [codewars.com](https://www.codewars.com/)
